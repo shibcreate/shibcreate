@@ -30,8 +30,8 @@ Hello! My name's Shinika Balasundar and I'm at San Jose State University studyin
 
 ## Statistics
 
-<a href="https://github.com/shibcreate"><img alt="Shinika Balasundar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=shibcreate&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="170px"/></a>
-<a href="https://github.com/shibcreate"><img alt="Shinika Balasundar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibcreate&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="170px"/></a>
+<a href="https://github.com/shibcreate"><img alt="Shinika Balasundar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=shibcreate&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="150px"/></a>
+<a href="https://github.com/shibcreate"><img alt="Shinika Balasundar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibcreate&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="150px"/></a>
 
 ## Links and Information
 
