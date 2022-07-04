@@ -40,6 +40,8 @@ Hello! My name's Shinika Balasundar and I'm at San Jose State University studyin
   - My [Email](mailto:shinikab@outlook.com)
   - My [Linkedin](https://www.linkedin.com/in/shinika-balasundar/)
   
-## 
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+  
+<div align="center">
+    <img src="GitHub.gif" height="100" />
+    <p>Loading</p>
+</div>
