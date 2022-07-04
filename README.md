@@ -24,7 +24,7 @@ Hello! My name's Shinika Balasundar and I'm at San Jose State University studyin
 
 **Projects and Skills:**
 - **FSAE** [ CAN Communication, Serial, I/O, C, C++, Embedded Systems ]
-- **Aptiv** [ React ]
+- **Aptiv** [ HTML and CSS ]
 - **Machine Learning** [ Python, Microsoft SQL, Data Visualizations ]
 - **BosterBio** [ SEO Analytics ]
 
