@@ -6,7 +6,7 @@ Hello! My name's Shinika Balasundar and I'm at San Jose State University studyin
 
 ```c
   char interest[] = "Embedded Systems";
-  char interest[] = "Aptiv Sales Engineer";
+  char role[] = "Aptiv Sales Engineer";
   char favorite_languages[] = "C, C++, and Python";
   char current_projects[] = "Battery Management System and Instrument Cluster";
   
