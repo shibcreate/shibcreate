@@ -30,7 +30,7 @@ Hello! My name's Shinika Balasundar and I'm at San Jose State University studyin
 
 ## Statistics
 
-<a href="https://github.com/shibcreate"><img alt="Shinika Balasundar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=shibcreate&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="150px"/></a>
+<a href="https://github.com/shibcreate"><img alt="Shinika Balasundar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=shibcreate&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="141px"/></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shibcreate&layout=compact)](https://github.com/shibcreate/github-readme-stats)
 
 ## Links and Information
