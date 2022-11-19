@@ -6,9 +6,9 @@ Hello! My name's Shinika Balasundar and I'm at San Jose State University studyin
 
 ```c
   char interest[] = "Embedded Systems";
-  char role[] = "Aptiv Sales Engineer Intern";
-  char favorite_languages[] = "C, C++, and Python";
-  char current_projects[] = "Battery Management System and Instrument Cluster";
+  char role[] = "Software Lead at Spartan Racing";
+  char favorite_languages[] = "C / C++";
+  char current_projects[] = "Torque Controls, Vehicle Control Unit, and Battery Management System";
   
   int graduateDate = 2025;
   
@@ -25,7 +25,6 @@ Hello! My name's Shinika Balasundar and I'm at San Jose State University studyin
 **Projects and Skills:**
 - **FSAE** [ CAN Communication, Serial, I/O, C, C++, Embedded Systems ]
 - **Aptiv** [ HTML and CSS ]
-- **Machine Learning** [ Python, Microsoft SQL, Data Visualizations ]
 - **BosterBio** [ SEO Analytics ]
 
 ## Statistics
