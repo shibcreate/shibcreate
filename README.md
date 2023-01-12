@@ -5,10 +5,10 @@
 Hello! My name's Shinika Balasundar and I'm at San Jose State University studying Computer Engineering.
 
 ```c
-  char interest[] = "Embedded Systems";
+  char interest[] = "Embedded Systems & Data Engineering";
   char role[] = "Software Lead at Spartan Racing";
-  char favorite_languages[] = "C / C++";
-  char current_projects[] = "Torque Controls, Vehicle Control Unit, and Battery Management System";
+  char favorite_languages[] = "C / C++ / Python / SQL";
+  char current_projects[] = "Torque Controls, Vehicle Control Unit, Live Telemetry, and Battery Management System";
   
   int graduateDate = 2025;
   
