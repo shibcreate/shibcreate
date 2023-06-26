@@ -8,7 +8,7 @@ Hello! My name's Shinika Balasundar and I'm at San Jose State University studyin
   char interest[] = "Control Systems and Embedded Engineering";
   char role[] = "";
   char favorite_languages[] = "C / C++ / Python / SQL";
-  char current_projects[] = "Launch Control, Regenerative Braking, Motor Controls, and Torque Controls";
+  char current_projects[] = "";
   
   int graduateDate = 2025;
   
