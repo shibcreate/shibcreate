@@ -26,7 +26,7 @@ Hello! My name's Shinika Balasundar and I'm at San Jose State University studyin
 - **FSAE** [ CAN Communication, Serial, I/O, C, C++, Embedded Systems, Controls ]
 - **Aptiv** [ HTML and CSS ]
 - **BosterBio** [ SEO Analytics ]
-- **Tesla** [ SQL, Jira, Ignition Scripting, Agile ]
+- **Tesla** [ SQL, Jira, Ignition Scripting, Python ]
 
 ## Statistics
 
