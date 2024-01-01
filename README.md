@@ -5,7 +5,7 @@
 Hello! My name's Shinika Balasundar and I'm at San Jose State University studying Computer Engineering.
 
 ```c
-  char interest[] = "System Integration & Control Systems";
+  char interest[] = "Firmware Engineering";
   char role[] = "Hub-Motors R&D Lead";
   char favorite_languages[] = "C / C++ / Python / SQL";
   char current_projects[] = "Vehicle Control Unit Programming, LV/HV System Integration, and Motor Controls";
