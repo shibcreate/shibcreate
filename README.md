@@ -1,6 +1,8 @@
 <h1 align="center">
-  <b>Shibcreate</b>
+  <b>Shinika Balasundar</b>
 </h1>
+
+Hello! My name's Shinika Balasundar and I'm at San Jose State University studying Computer Engineering.
 
 ```c
   char interest[] = "Firmware Engineering";
@@ -19,6 +21,25 @@
 <img src="https://user-images.githubusercontent.com/59575502/127426312-4a7a6d79-4b40-4b06-8c94-824ea3e8410e.png" alt="javascript" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="25" height="25" />
 </p>
+
+**Projects and Skills:**
+- **FSAE** [ CAN Communication, Serial, I/O, C, C++, Embedded Systems, Controls ]
+- **Aptiv** [ HTML and CSS ]
+- **BosterBio** [ SEO Analytics ]
+- **Tesla** [ SQL, Jira, Ignition Scripting, Python ]
+
+## Statistics
+
+<a href="https://github.com/shibcreate"><img alt="Shinika Balasundar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=shibcreate&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="141px"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shibcreate&layout=compact)](https://github.com/shibcreate/github-readme-stats)
+
+## Links and Information
+
+- San Jose State [Spartan Racing](https://www.sjsuformulasae.com/)
+- Contacts
+  - My [Email](mailto:shinikab@outlook.com)
+  - My [Linkedin](https://www.linkedin.com/in/shinika-balasundar/)
+  
   
 <div align="center">
     <img src="GitHub.gif" height="100" />
