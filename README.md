@@ -6,7 +6,7 @@ Hello! My name's Shinika Balasundar and I'm at San Jose State University studyin
 
 ```c
   char interest[] = "Firmware Engineering";
-  char role[] = "CEO @ HydroLink Systems";
+  char role[] = "Student";
   char favorite_languages[] = "C / C++ / Python / Assembly";
   
   int graduateDate = 2025;
