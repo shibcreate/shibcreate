@@ -5,7 +5,7 @@
 Hello! My name's Shinika Balasundar and I'm at San Jose State University studying Computer Engineering.
 
 ```c
-  char interest[] = "Firmware Engineering";
+  char interest[] = "Embedded Software Engineering";
   char role[] = "Student";
   char favorite_languages[] = "C / Python / Assembly";
   
