@@ -7,7 +7,7 @@ Hello! My name's Shinika Balasundar and I'm at San Jose State University studyin
 ```c
   char interest[] = "Firmware Engineering";
   char role[] = "Student";
-  char favorite_languages[] = "C / C++ / Python / Assembly";
+  char favorite_languages[] = "C / Python / Assembly";
   
   int graduateDate = 2025;
   
@@ -27,6 +27,7 @@ Hello! My name's Shinika Balasundar and I'm at San Jose State University studyin
 - **BosterBio** [ SEO Analytics ]
 - **Tesla** [ SQL, Jira, Ignition Scripting, Python ]
 - **Lucid Motors** [ Validation, Python, CANTools ]
+- **Rivian** [ CAN, UDS, Embedded Systems ]
 
 ## Statistics
 
