@@ -2,12 +2,12 @@
   <b>Shinika Balasundar</b>
 </h1>
 
-Hello! My name's Shinika Balasundar and I'm at San Jose State University studying Computer Engineering.
+Hello! My name's Shinika Balasundar and I'm at San Jose State University studying M.S. Computer Engineering.
 
 ```c
   char interest[] = "Embedded Software Engineering";
   char role[] = "Student";
-  char favorite_languages[] = "C / Python / Assembly";
+  char favorite_languages[] = "C / C++ / Rust / Python / Assembly";
   
   int graduateDate = 2025;
   
